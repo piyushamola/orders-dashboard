@@ -1,0 +1,18 @@
+.Layout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: scroll;
+}
+
+.chartClass {
+    align-self: center;
+    margin-top: 50px;
+    width: 1000px;
+}
+
+.DataTable {
+    align-self: center;
+    width: 1000px;
+    margin-top: 50px;
+}
